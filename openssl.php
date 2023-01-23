@@ -1,11 +1,11 @@
 <?php
 
 /**
-* PHP encryption-decryption
-*
-* @author [ramazancetinkaya]
-* @date [23.01.2023]
-*/
+ * PHP encryption-decryption
+ *
+ * @author [ramazancetinkaya]
+ * @date [23.01.2023]
+ */
 
 // Encryption
 $plaintext = "This is the message to be encrypted.";
